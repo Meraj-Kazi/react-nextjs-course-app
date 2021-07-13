@@ -11,6 +11,10 @@ Follow these steps:
 - add relevent code in those two.
 - now open terminal and run the project using this command ```npm run dev```
 - view the app on localhost:3000
+- Now if you visit localhost:3000, you'll see indexJS page loaded.
+- If you want to see the newsJS page, visit localhost:3000/news. Also, if you move newsJS file into a folder called news, inside pages folder, and name the newsJS page as indexJS, it'll still be available on localhost:3000/news. It's upto you. It's better for making nested pages.
+- BUt if wanna load anything dynamic in our news page, we need to use ### Dynamic Paths
+
 
 
 
