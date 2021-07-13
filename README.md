@@ -10,6 +10,7 @@ Follow these steps:
 - Make 2 pages inside pages folder called index.js and news.js
 - add relevent code in those two.
 - now open terminal and run the project using this command ```npm run dev```
+- view the app on localhost:3000
 
 
 
