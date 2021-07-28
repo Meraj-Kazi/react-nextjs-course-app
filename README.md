@@ -67,7 +67,7 @@ Follow these steps:
 - If we had a backend, we could send a request to the  backend API, and fetch the data associated with the newsId.
 - Now we gonna talk about Navigation.
 
-# React & NextJS Course Application - 03. Navigation 
+## React & NextJS Course Application - 03. Navigation 
 
 
 Follow these steps:
