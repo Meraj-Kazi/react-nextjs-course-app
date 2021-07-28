@@ -33,6 +33,10 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
+## React & NextJS Course Application - 00. Warm Up
+
+- This is a starter kit for the learning. You can skip it and move on to next step. 
+
 
 ## React & NextJS Course Application - 01. Initial Setup
 
