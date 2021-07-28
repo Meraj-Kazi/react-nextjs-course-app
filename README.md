@@ -34,7 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-# React & NextJS Course Application - 01. Initial Setup
+## React & NextJS Course Application - 01. Initial Setup
 
 
 Follow these steps:
@@ -52,7 +52,7 @@ Follow these steps:
 - But if wanna load anything dynamic in our news page, we need to use <strong>Dynamic Paths</strong>
 
 
-# React & NextJS Course Application - 02. Dynamic Path 
+## React & NextJS Course Application - 02. Dynamic Path 
 
 
 Follow these steps:
